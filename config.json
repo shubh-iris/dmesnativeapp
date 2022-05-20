@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.2",
-    "buildNumber": 2,
+    "appVersion": "0.0.3",
+    "buildNumber": 3,
     "runtimeUrl": "http://192.168.43.234:8080/"
 }
